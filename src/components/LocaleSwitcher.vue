@@ -8,7 +8,7 @@
 
 <script>
 export default {
-  name: "LocaleSwitcher",
+  name: "locale-switcher",
   data() {
     return { locales: ["fr", "en"] };
   }

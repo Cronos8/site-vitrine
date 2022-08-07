@@ -6,13 +6,13 @@
 </template>
 
 <script>
-
+import { defineComponent } from 'vue'
 import LocaleSwitcher from "./LocaleSwitcher.vue";
 
-export default {
+export default defineComponent({
   name: 'HelloI18n',
   components: { LocaleSwitcher }
-};
+})
 </script>
 
 <!-- <i18n>

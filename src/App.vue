@@ -1,18 +1,21 @@
 <template>
-  <img class="mx-auto" alt="Vue logo" src="./assets/logo.png">
+  <!-- <img class="mx-auto" alt="Vue logo" src="./assets/logo.png"> -->
   <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-  <HelloI18n />
+  <!-- <HelloI18n /> -->
+
+  <div id="app">
+    <Navigation></Navigation>
+    <router-view></router-view>
+  </div>  
 </template>
 
 <script>
-  //import HelloWorld from './components/HelloWorld.vue'
-  import HelloI18n from './components/HelloI18n.vue'
+  import Navigation from './components/Navigation.vue'
 
   export default {
     name: 'App',
     components: {
-      HelloI18n
-      //HelloWorld
+      Navigation
     }
   }
 </script>
