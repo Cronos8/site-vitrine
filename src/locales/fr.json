@@ -1,4 +1,8 @@
 {
-  "title": "Boujour Alexandre !",
-  "description": "Un exemple Vue i18n next avec vue-i18n-next"
+    "homeMenuTitle" : "Accueil",
+    "projectsMenuTitle" : "Projets",
+    "resumeMenuTitle" : "CV",
+
+    "title": "Boujour Alexandre !",
+    "description": "Un exemple Vue i18n next avec vue-i18n-next"
 }

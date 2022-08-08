@@ -1,4 +1,8 @@
 {
+  "homeMenuTitle" : "Home",
+  "projectsMenuTitle" : "Projects",
+  "resumeMenuTitle" : "Resume",
+
   "title": "Welcome Alexandre !",
   "description": "A Vue i18n next example using vue-i18n-next"
 }
