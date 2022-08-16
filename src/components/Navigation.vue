@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-white shadow-lg sticky top-0">
+  <nav class="bg-white shadow-lg sticky top-0 z-40">
     <div class="max-w-6xl mx-auto px-4">
 
        <div class="absolute py-2 px-2 inset-y-0 left-0 sm:hidden">
