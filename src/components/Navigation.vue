@@ -2,7 +2,7 @@
   <nav class="bg-white shadow-lg sticky top-0 z-40">
     <div class="max-w-6xl mx-auto px-4">
 
-       <div class="absolute py-2 px-2 inset-y-0 left-0 sm:hidden">
+      <div class="absolute py-2 px-2 left-0 sm:hidden">
         <!-- Mobile menu button-->
         
         <!-- <button @click="isMenuOpen = !isMenuOpen;" class="inline-flex p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"> -->

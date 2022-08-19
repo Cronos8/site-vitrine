@@ -10,5 +10,17 @@
   "shortDescProject1" : "I am short desc 2",
 
   "titleProject2" : "I am projet 2",
-  "shortDescProject2" : "I am desc projet 2"
+  "shortDescProject2" : "I am desc projet 2",
+
+  "titleExperience1": "Title exp1",
+  "shortDescExperienc1": "Short Desc Exp1 dsiojsoij osjfoqj fnzai azaij diofozef oisdjoi ejfoziej fofj oijqjfojfo zejfozf jjfzke fhzfhizefhi efhizehf ziefh ojefoe zfjzejf",
+  "dateExperience1":"11 july 2022",
+  
+  "titleExperience2": "Title exp2",
+  "shortDescExperienc2": "Short Desc Exp2 dsiojsoij osjfoqj fnzai azaij diofozef oisdjoi ejfoziej fofj oijqjfojfo zejfozf jjfzke fhzfhizefhi efhizehf ziefh ojefoe zfjzejf",
+  "dateExperience2":"12 july 2022",
+
+  "titleExperience3": "Title exp3",
+  "shortDescExperienc3": "Short Desc Exp3 dsiojsoij osjfoqj fnzai azaij diofozef oisdjoi ejfoziej fofj oijqjfojfo zejfozf jjfzke fhzfhizefhi efhizehf ziefh ojefoe zfjzejf",
+  "dateExperience3":"13 july 2022"
 }
