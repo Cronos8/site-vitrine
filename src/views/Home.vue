@@ -1,5 +1,4 @@
 <template>
-
     <!-- Jumbotron -->
   <div class="flex flex-col h-screen p-12 text-center bg-gray-100 text-gray-700">
     <h2 class="font-semibold text-4xl mb-4">Heading</h2>
@@ -54,11 +53,27 @@
      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
      sunt in culpa qui officia deserunt mollit anim id est laborum.
   </div>
+
+  <div class="text-center p-12">
+    <img
+      src="../assets/avatar.jpg"
+      class="rounded-full w-48 mb-4 mx-auto overflow-visible"
+      alt="Avatar"
+    />
+    <h5 class="text-xl font-medium leading-tight mb-2">Alexandre Nguyen</h5>
+    <p class="text-gray-500">Developper</p>
+  </div>
+
 </template>
 
 <script>
 
   export default {
+    data() {
+      return {
+        test:"title",
+      } 
+    },
     name: 'home-view',
     components: {
     }

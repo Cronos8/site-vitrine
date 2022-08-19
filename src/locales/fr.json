@@ -4,5 +4,11 @@
     "resumeMenuTitle" : "CV",
 
     "title": "Boujour Alexandre !",
-    "description": "Un exemple Vue i18n next avec vue-i18n-next"
+    "description": "Un exemple Vue i18n next avec vue-i18n-next",
+
+    "titleProject1" : "Je suis projet 1",
+    "shortDescProject1" : "Je suis desc projet 1",
+
+    "titleProject2" : "Je suis projet 2",
+    "shortDescProject2" : "Je suis desc projet 2"
 }
